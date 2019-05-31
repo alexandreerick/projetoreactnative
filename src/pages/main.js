@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import api from '../services/api';
 
+// IMPORTS
+
 import { View, Text, FlatList, TouchableOpacity, StyleSheet } from 'react-native';
 
 export default class Main extends Component {
